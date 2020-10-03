@@ -5,6 +5,7 @@
 * 入門
   * [2020/10/03 我理解的JavaScript─前言〈零〉越寫越不會、越學越謙卑](https://medium.com/@gh87783gh/%E6%88%91%E7%90%86%E8%A7%A3%E7%9A%84javascript-%E5%89%8D%E8%A8%80-%E9%9B%B6-%E8%B6%8A%E5%AD%B8%E8%B6%8A%E4%B8%8D%E6%9C%83-%E8%B6%8A%E5%AD%B8%E8%B6%8A%E8%AC%99%E5%8D%91-5e5b0370fdc9)
   * 2
+整理中..
 
 ## React系列
 整理中..
